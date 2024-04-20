@@ -6,23 +6,23 @@ PMODs for my rp2040-based boards
 
 ## HVPulser + HV Source
 
-To complete
+![](HV_Pulser/pic.jpg)
 
 ## PSRAM
 
-To complete
+![](PSRAM/pic.jpg)
 
 ## R2R DAC
 
-To complete
+![](R2R_DAC/viewme.png)
 
-## FT4222
+## FT4222 - _Untested yet_
 
-To complete
+![](FT4222/viewme.png)
 
 ## 6-bit VGA
 
-To complete
+![](6bit-VGA/pic.jpg)
 
 # License
 
