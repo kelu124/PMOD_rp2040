@@ -1,8 +1,8 @@
 cmake_minimum_required(VERSION 3.13)
 
-include(${CMAKE_CURRENT_LIST_DIR}/../pico-sdk/pico_sdk_init.cmake)
+include(${CMAKE_CURRENT_LIST_DIR}/../../../../pico/pico-sdk/pico_sdk_init.cmake)
 
-project(csv)
+project(csv ASM C CXX)
 
 pico_sdk_init()
 
