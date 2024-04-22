@@ -19,9 +19,10 @@ int main()
 {
     stdio_init_all();
     gpio_csv_init();
+    gpio_csv_out();
     while (true)
     {
-        gpio_csv_out();
-        sleep_ms(1);
+        csv();
+        sleep_ms(0.1);
     }
 }
