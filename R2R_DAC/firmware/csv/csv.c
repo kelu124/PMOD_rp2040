@@ -70,7 +70,7 @@ void csv()
     for (uint16_t i = 0; i < CSV_COUNT; i++)
     {
         gpio_put_masked(pins_mask, csv_data[i]);
-        __asm volatile("nop" :);
+        //__asm volatile("nop" :);
     }
 }
 

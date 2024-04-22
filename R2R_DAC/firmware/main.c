@@ -23,6 +23,5 @@ int main()
     while (true)
     {
         csv();
-        sleep_ms(0.1);
     }
 }
